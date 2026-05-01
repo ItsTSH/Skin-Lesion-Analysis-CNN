@@ -49,6 +49,7 @@ Integrated both:
 ---
 
 ## 🛠️ Project Structure
+```
 Skin-Lesion-Analysis-CNN/
 ├── app.py # Flask app for local deployment
 ├── model/ # Trained model (not uploaded due to GitHub size limit)
@@ -57,6 +58,7 @@ Skin-Lesion-Analysis-CNN/
 ├── utils.py # Visualization and helper functions
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## 🚀 Deployment
